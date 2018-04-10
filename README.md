@@ -1,2 +1,2 @@
 # First-React-Application
-Robowars Raect application
+Robowars React application
